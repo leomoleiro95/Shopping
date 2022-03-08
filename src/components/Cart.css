@@ -10,6 +10,12 @@ li {
   padding: 10px;
   cursor: pointer;
 }
+
+.cartIcon:hover {
+  background-color: orangered;
+  box-shadow: 10px 5px 5px orangered;
+}
+
 .cart-container {
   border: 1px solid black;
   border-radius: 10px;

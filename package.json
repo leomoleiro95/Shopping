@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/leomoleiro95/Shopping.git",
+  "homepage": "https://leomoleiro95.github.io/Shopping/",
   "dependencies": {
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
